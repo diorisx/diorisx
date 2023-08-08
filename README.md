@@ -10,6 +10,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/drenvllx.png" alt="TryHackMe">
 </div>
 
-<a href="https://play.google.com/store/apps/details?id=com.drsx_dev.aseucam">ASEUCAM (Android) </a>
+<a href="https://play.google.com/store/apps/dev?id=7390024117998362806">PlayStore</a>
 <br>
-<a href="https://apps.apple.com/do/app/aseucam/id6443638497?l=en">ASEUCAM (iOS) </a>
+<a href="https://apps.apple.com/do/developer/dioris-renvill/id1647980295?l=en-GB">AppStore</a>
