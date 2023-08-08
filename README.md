@@ -9,8 +9,6 @@
 
 <b>📦 Databases:</b> MongoDB – Storing and retrieving data is a breeze, and I'm skilled at designing efficient database structures.
 
-<b>🧠 Problem Solving:</b> With a strong analytical mindset, I relish tackling complex challenges and finding innovative solutions that drive projects forward.
-
 <b>🌀 Agile Collaboration:</b> Collaborative by nature, I'm comfortable working in cross-functional teams, iterating quickly, and adapting to evolving project requirements.
 
 <b>🌱 Constant Learning:</b> In the ever-evolving tech landscape, I'm committed to staying up-to-date with the latest trends and technologies to deliver the best possible results.
