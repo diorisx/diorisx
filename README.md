@@ -1,19 +1,19 @@
 
-<b>👨‍💻 Full-stack developer</b> with a passion for crafting immersive web and mobile experiences. Proficient in a diverse range of technologies, I enjoy building end-to-end solutions that seamlessly blend aesthetics and functionality.
+<b>👨‍💻 Full-stack Developer:</b> with a passion for crafting immersive web and mobile experiences. Proficient in a diverse range of technologies, I enjoy building end-to-end solutions that seamlessly blend aesthetics and functionality.
 
 🔧 My toolkit includes:
 
-🚀 Frontend: Angular, React, Svelte, Flutter (Android with Jetpack Compose) – I thrive on creating dynamic and responsive user interfaces that engage and captivate users.
+<b>🚀 Frontend:</b> Angular, React, Svelte, Flutter (Android with Jetpack Compose) – I thrive on creating dynamic and responsive user interfaces that engage and captivate users.
 
-🛢️ Backend: Node.js, Express, Python, Flask – From RESTful APIs to sophisticated server-side logic, I love architecting backend systems that power modern applications.
+<b>🛢️ Backend:</b> Node.js, Express, Python, Flask – From RESTful APIs to sophisticated server-side logic, I love architecting backend systems that power modern applications.
 
-📦 Databases: MongoDB – Storing and retrieving data is a breeze, and I'm skilled at designing efficient database structures.
+<b>📦 Databases:</b> MongoDB – Storing and retrieving data is a breeze, and I'm skilled at designing efficient database structures.
 
-🧠 Problem Solving: With a strong analytical mindset, I relish tackling complex challenges and finding innovative solutions that drive projects forward.
+<b>🧠 Problem Solving:</b> With a strong analytical mindset, I relish tackling complex challenges and finding innovative solutions that drive projects forward.
 
-🌀 Agile Collaboration: Collaborative by nature, I'm comfortable working in cross-functional teams, iterating quickly, and adapting to evolving project requirements.
+<b>🌀 Agile Collaboration:</b> Collaborative by nature, I'm comfortable working in cross-functional teams, iterating quickly, and adapting to evolving project requirements.
 
-🌱 Constant Learning: In the ever-evolving tech landscape, I'm committed to staying up-to-date with the latest trends and technologies to deliver the best possible results.
+<b>🌱 Constant Learning:</b> In the ever-evolving tech landscape, I'm committed to staying up-to-date with the latest trends and technologies to deliver the best possible results.
 
 🌟 Let's connect and collaborate on projects that push the boundaries of what's possible in the world of web and mobile development!
 
